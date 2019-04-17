@@ -152,6 +152,7 @@ section {
    
 .topnav {
   background-color: #3c7fcc;
+  background: linear-gradient(to left, #4c8dbf,#255994);
   /*background: linear-gradient(141deg, #3c7fcc 0%, #558eff 51%, #ff9c55 75%);
 */
 }
@@ -233,7 +234,7 @@ section {
     #profilePicture {
         justify-self: center;   
         align-self: center;
-        border-radius: 5%;
+        border-radius: 50%;
         border: 3px solid white; 
         width: 50%;
         height: auto;
